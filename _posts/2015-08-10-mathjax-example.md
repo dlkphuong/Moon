@@ -3,6 +3,7 @@ layout: post
 title:  "MathJax Example"
 date:   2015-08-10
 excerpt: "MathJax Example for Moon Jekyll Theme."
+project: true
 tag:
 - markdown 
 - mathjax
@@ -16,8 +17,7 @@ comments: true
 
 ## Usage
 
-To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file.
-
+To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file. 
 ~~~
 markdown: kramdown
 mathjax: true
